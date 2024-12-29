@@ -7,6 +7,7 @@
 - 🛠️ **Explore My Work:** Check out my [GitHub Repositories](https://github.com/krishnapoddar1592?tab=repositories) for a glimpse of my latest code adventures.
 - 📬 **Get in Touch:** Drop me a line at [krishnapoddar2071@gmail.com](mailto:krishnapoddar2071@gmail.com)
 - 📝 **My Experiences:** Curious about my background? [View My Resume](https://drive.google.com/file/d/1nABu0sTey5HabovlRXpiAfeTPSzKMyUX/view?usp=sharing)
+- 🌐 **Visit My Portfolio**: Check out my personal website at [krishnapoddar.com](https://krishnapoddar.com).
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-poddar-2461aa231/)
